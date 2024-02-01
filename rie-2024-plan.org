@@ -1,0 +1,50 @@
+* New idea for RIE 2024 talk
+
+** New title
+How I thought I had discovered 100 new optical emission lines, and how it turned out that they were not so new after all
+
+Google translate seems fine
+
+Cómo pensé que había descubierto 100 nuevas líneas de emisión óptica y cómo resultó que, después de todo, no eran tan nuevas
+
+** Plan
+1. How it started: looking for Raman scattering by neutral hydrogen in the SMC
+   - (yes we found it but that is a different story)
+   - Show JWST image of the region
+2. Show spectra with the guardian lines around the Raman O I dip
+   - Call these lines the Guardians because they look like the Gates of Argonath
+   - no, maybe just don't
+3. Show the energy level diagram for H2 to show which our lines are
+   - they are for delta v = 3 to 7
+   - we can plot all the transitions as functions of wavelength
+   - there are 4712 bound levels in all
+     - v = 14 is the highest bound vibrational level, and it only goes up to J=4, with excitation temperature 52000 K
+     - so it is not surprising that v = 14 is the highest level that we detect
+   - strongest lines we see are
+     - 4-1 in the far red
+     - 5-1 around H alpha
+4. 
+5. 
+   
+* Original idea on turbulent H II regions, which I have now ditched
+
+
+- Duration: 10 minutes
+- Title: Orden y desorden en regiones fotoionizadas
+- Language: do the slides in English and talk in Spanish
+  - or vice versa?
+
+** Plan
+- Last time I had 9 slides, which was about right I think
+- I used a dark mode, but that meant lots of faffing around to get the figures converted
+  - this time I cannot be bothered
+  - I have now partially converted the theme to light mode
+
+** Content
+- Motivation
+  - What drives the kinematics of H II regions?
+  - How can we study it observationally?
+    - Two types of technique:
+      - Line widths
+      - Plane-of-sky variations
+
